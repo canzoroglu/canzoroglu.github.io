@@ -78,7 +78,7 @@ h3 {
   opacity: 1;
 }
 
-a:hover {
+nav > a:hover {
   background-color: #b5ff93;
   color: #ff43a4;
 }
