@@ -5,6 +5,7 @@
 body {
   font-size: 1.2em;
   background-color: #fbffca;
+  text-align: center;
 }
 
 .navbar {
@@ -29,7 +30,7 @@ p {
 
 .navbar a {
   text-decoration: none;
-  color: #8e058c; 
+  color: #8e058c;
 }
 
 .container {
@@ -81,6 +82,16 @@ h3 {
 nav > a:hover {
   background-color: #b5ff93;
   color: #ff43a4;
+}
+
+li {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #8e058c;
 }
 
 @media only screen and (max-width: 430px) {
