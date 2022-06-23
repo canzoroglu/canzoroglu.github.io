@@ -45,6 +45,11 @@ a.nav-link:not(.active):hover {
   width: 30vw;
   margin-top: 7rem;
 }
+.contact-info {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
 hr.star-light:after {
     color: #fff;
     background-color: #18bc9c;
